@@ -9,7 +9,7 @@ SpaceInvaders,Un intento(muy muy básico) para aprender a usar la libreria pygam
   * Ubuntu/debian: `sudo apt-get install python-pygame`
   
 2. clonar este repositorio
-  * `git clone https://github.com/pablotrianda/SpaceInvaders.git`
+  * `git clone https://github.com/pablotrianda/Spaceinvaders.git`
 
 3. Ejecutar:
   * En la carpeta: SpaceInvaders
